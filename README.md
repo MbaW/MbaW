@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MbaW
+- 👋 Hi, I’m William Mba
 - 👀 I’m interested in web developement
 - 🌱 I’m currently working with Angular and .NET Frameworks at JOVACO Solutions Inc.
 - 💞️ I’m open to collaborate on non-profit projects
