@@ -1,7 +1,7 @@
 - 👋 Hi, I’m William Mba
 - 👀 I’m interested by web developement
 - 🌱 I’m currently working with Angular and .NET Frameworks at JOVACO Solutions Inc.
-- 💞️ I’m open to collaborate on non-profit projects on my free times
+- 💞️ I’m open to collaborate on educational projects during my free times
 - 📫 How to reach me : wllmmba@gmail.com / wmba@jovaco.ca
 
 <!---
